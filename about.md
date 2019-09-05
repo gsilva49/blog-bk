@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Oi,
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+Meu nome é Nivaldo Gomes, muitos me conhecem só por Gomes. 
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Durante a minha jornada, desde entrar a faculdade até os dias atuais, me deparei com alguns acontecimentos que não estava preparado e que não tinham sidos ensinados na educação formal. 
+
+Passado o tempo, resolvi escrever sobre estes conhecimentos adquiridos como forma de registrá-los e compartilhá-los com o mundo. Desta forma o Quebrando o Caminho surgiu.
+
+Espero que de alguma forma os meus textos sejam úteis para você!
