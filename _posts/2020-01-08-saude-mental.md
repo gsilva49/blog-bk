@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por que deixamos nossa saúde mental de lado?
+title: Deixamos a nossa saúde mental de lado e isso é péssimo!
 featured-img: brain
 mathjax: true
 ---
