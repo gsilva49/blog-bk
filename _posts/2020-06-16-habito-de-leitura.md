@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como criar um hábito de leitura
+title: Como ler mais
 featured-img: livro
 mathjax: true
 ---
